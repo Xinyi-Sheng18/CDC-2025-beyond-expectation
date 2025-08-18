@@ -1,0 +1,7 @@
+gym==0.26.1
+gymnasium==1.0.0
+matplotlib==3.7.1
+matplotlib==3.6.0
+numpy==1.24.2
+stable_baselines3==2.6.0
+tqdm==4.66.5
